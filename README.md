@@ -1,2 +1,2 @@
-# anx-avinash-portfolio
+# anx-portfolio
 Source code for portfolio.
